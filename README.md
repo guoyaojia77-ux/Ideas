@@ -2,14 +2,14 @@
 
 <p align="center">
   <img alt="Platform: Windows x64" src="https://img.shields.io/badge/Windows-x64-8CA3C4?style=flat-square">
-  <img alt="Version: 0.13.1 preview" src="https://img.shields.io/badge/Version-0.13.1%20Preview-AF9BCB?style=flat-square">
+  <img alt="Version: 1.0 preview" src="https://img.shields.io/badge/Version-1.0%20Preview-AF9BCB?style=flat-square">
   <img alt="Local first" src="https://img.shields.io/badge/Local-First-98B2A3?style=flat-square">
   <img alt="Source: not public" src="https://img.shields.io/badge/Source-Not%20Public-A0A7B4?style=flat-square">
 </p>
 
 <p align="center"><b>为 Windows 打造的想法与图层无限画布笔记软件。</b><br>随手记录，自由摆放，让想法、文字和画面连在一起。</p>
 
-<p align="center"><a href="https://github.com/guoyaojia77-ux/Ideas/releases/tag/v0.13.1"><b>下载 Windows 安装包</b></a> · <a href="docs/QUICKSTART.zh-CN.md">快速上手</a> · <a href="docs/GALLERY.md">界面图册</a> · <a href="https://github.com/guoyaojia77-ux/Ideas/issues/new/choose">问题反馈</a></p>
+<p align="center"><a href="https://github.com/guoyaojia77-ux/Ideas/releases/tag/v1.0"><b>下载 Windows 安装包</b></a> · <a href="docs/QUICKSTART.zh-CN.md">快速上手</a> · <a href="docs/GALLERY.md">界面图册</a> · <a href="https://github.com/guoyaojia77-ux/Ideas/issues/new/choose">问题反馈</a></p>
 
 ---
 
@@ -111,7 +111,7 @@ GitHub 自动提供的 **Source code (zip / tar.gz)** 只包含本仓库的展�
 
 ## 当前阶段
 
-这是持续迭代的 **0.x 预览版**，功能仍在完善。独立画板橡皮目前为整笔擦除；MyPaint 笔刷仅适配基础参数；PSD 为位图图层；Office 文档通过本机软件打开；不提供云同步。详见 [已知边界](docs/LIMITATIONS.md)。
+当前公开发行版为 **1.0 预览版**，安装包沿用内部构建 **0.13.1**，文件名和应用内版本仍显示 0.13.1，功能仍在完善。独立画板橡皮目前为整笔擦除；MyPaint 笔刷仅适配基础参数；PSD 为位图图层；Office 文档通过本机软件打开；不提供云同步。详见 [已知边界](docs/LIMITATIONS.md)。
 
 最近一轮构建完成了代码、资源与打包检查，完整交互验收仍在持续进行；请勿将展示截图视为全面兼容性承诺。
 
